@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+table {
+    width: 40%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: left;
+}
+
+#mensagem-erro {
+    color: red;
+    margin-bottom: 10px;
+}
